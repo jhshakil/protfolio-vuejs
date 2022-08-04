@@ -5,6 +5,7 @@
     <AboutMe></AboutMe>
     <MySkill></MySkill>
     <MyProject></MyProject>
+    <Contact></Contact>
     <Footer></Footer>
   </div>
 </template>
@@ -16,6 +17,7 @@ import AboutMe from "@/components/AboutMe.vue";
 import MyProject from "@/components/MyProject.vue";
 import MySkill from "@/components/MySkill.vue";
 import Footer from "@/components/Footer.vue";
+import Contact from "@/components/Contact.vue";
 // @ is an alias to /src
 
 export default {
@@ -26,7 +28,8 @@ export default {
     AboutMe,
     MyProject,
     MySkill,
-    Footer
+    Footer,
+    Contact
 }
 }
 </script>
