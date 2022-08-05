@@ -6,9 +6,9 @@
                 <li>
                 <router-link to="/">Home</router-link>
                 </li>
-                <!-- <li>
-                <router-link to="/project">Project</router-link>
-                </li> -->
+                <li>
+                <router-link to="/projects">Project</router-link>
+                </li>
                 <li>
                 <router-link to="/blogs">Blogs</router-link>
                 </li>

@@ -1,5 +1,5 @@
 <template>
-    <div class="m-16 bg-gray-300 rounded-lg">
+    <div class="m-16 bg-gray-200 rounded-lg">
         <h2 class="text-4xl font-bold text-center pt-8">Contact Me</h2>
         <div class="grid grid-cols-2 gap-8 items-center">
             <form ref="form" class="p-8" @submit.prevent="sending()">

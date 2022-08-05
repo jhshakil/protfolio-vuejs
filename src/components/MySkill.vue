@@ -2,7 +2,7 @@
     <div class="m-16">
         <h2 class="text-4xl font-bold text-center">My Skill</h2>
         <div class="grid grid-cols-3 gap-8 my-8">
-            <div class="bg-gray-300 shadow-lg rounded-lg p-8">
+            <div class="bg-gray-200 shadow-lg rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-center">Frontend</h3>
                 <div class="grid grid-cols-3 gap-4 my-8">
                 <div class="font-bold text-black p-2 rounded-md text-lg text-center">Javascript</div>
@@ -15,7 +15,7 @@
                 <div class="font-bold text-black p-2 rounded-md text-lg text-center">DaisyUI</div>
                 </div>
             </div>
-            <div class="bg-gray-300 shadow-lg rounded-lg p-8">
+            <div class="bg-gray-200 shadow-lg rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-center">Backend</h3>
                 <div class="grid grid-cols-3 gap-4 my-8">
                 <div class="font-bold text-black p-2 rounded-md text-lg text-center">Node</div>
@@ -23,7 +23,7 @@
                 <div class="font-bold text-black p-2 rounded-md text-lg text-center">MongoDB</div>
                 </div>
             </div>
-            <div class="bg-gray-300 shadow-lg rounded-lg p-8">
+            <div class="bg-gray-200 shadow-lg rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-center">Tools</h3>
                 <div class="grid grid-cols-3 gap-4 my-8">
                 <div class="font-bold text-black p-2 rounded-md text-xl text-center">Firebase</div>

@@ -1,6 +1,6 @@
 <template>
-    <div class="m-16">
-        <h2 class="text-4xl font-bold text-center">My Project</h2>
+    <div class="m-8">
+        <h2 class="text-4xl font-bold text-center">All Project</h2>
         <div class="grid grid-cols-2 gap-12 mt-16 items-center">
             <img src="../assets/project1/project1.jpg" class="rounded-lg" alt="Project 1">
             <div>
@@ -37,16 +37,27 @@
                 </div>
             </div>
         </div>
-        <div class="flex justify-evenly items-center mt-16">
-            <div class="text-2xl text-center font-bold">
-                <router-link class="bg-orange-200 py-3 px-4 rounded-lg" to="/projects">See More ...</router-link>
+        <div class="grid grid-cols-2 gap-12 mt-16 items-center">
+            <img src="../assets/project3/Project3.jpg" class="rounded-lg" alt="Project 1">
+            <div>
+                <h3 class="text-2xl font-bold text-center my-4">Randomly Collect Product</h3>
+                <p class="text-lg">This is a Javascript project. This project people can add some product and choose randomly one product by clicking a button. Here code</p>
+                <div class="flex justify-evenly items-center my-4">
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
+                        <a target="_blank" href="https://meek-belekoy-cc7525.netlify.app/">Live Site</a>
+                    </div>
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
+                        <a target="_blank" href="https://github.com/jhshakil/lucky-one">Client Site Code</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </template>
 
 <script>
+
 export default {
-    name: 'MyProject'
+    name: "AllProject",
 }
 </script>
