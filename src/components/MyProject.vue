@@ -7,10 +7,15 @@
                 <h3 class="text-2xl font-bold text-center my-4">Manufacture Website</h3>
                 <p class="text-lg">This is a manufacturer website. It is a MERN Stack project. This website is controlled by Admin. Admin can add products and manage orders. Here client site code and server site code</p>
                 <div class="flex justify-evenly items-center my-4">
-                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-xl text-center">
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
                         <a target="_blank" href="https://shakils-hardware.web.app/">Live Site</a>
                     </div>
-                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-xl text-center">Details</div>
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
+                        <a target="_blank" href="https://github.com/jhshakil/shakils-hardware-client">Client Site Code</a>
+                    </div>
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
+                        <a target="_blank" href="https://github.com/jhshakil/shakils-hardware-server">Server Site Code</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -20,10 +25,15 @@
                 <h3 class="text-2xl font-bold text-center my-4">Warehouse Management Website</h3>
                 <p class="text-lg">This is a Warehouse Management Website. It is a MERN Stack project. Add product, Add Quantity and Delete Product are the main feature in this website. Here client site code and server site code</p>
                 <div class="flex justify-evenly items-center my-4">
-                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-xl text-center">
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
                         <a target="_blank" href="https://car-dealer-af8e9.web.app/">Live Site</a>
                     </div>
-                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-xl text-center">Details</div>
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
+                        <a target="_blank" href="https://github.com/jhshakil/warehouse-management-client">Client Site Code</a>
+                    </div>
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
+                        <a target="_blank" href="https://github.com/jhshakil/warehouse-management-server">Server Site Code</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -33,10 +43,12 @@
                 <h3 class="text-2xl font-bold text-center my-4">Randomly Collect Product</h3>
                 <p class="text-lg">This is a Javascript project. This project people can add some product and choose randomly one product by clicking a button. Here code</p>
                 <div class="flex justify-evenly items-center my-4">
-                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-xl text-center">
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
                         <a target="_blank" href="https://meek-belekoy-cc7525.netlify.app/">Live Site</a>
                     </div>
-                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-xl text-center">Details</div>
+                    <div class="bg-gray-300 text-black p-2 rounded-md w-1/4 text-lg text-center">
+                        <a target="_blank" href="https://github.com/jhshakil/lucky-one">Client Site Code</a>
+                    </div>
                 </div>
             </div>
         </div>
