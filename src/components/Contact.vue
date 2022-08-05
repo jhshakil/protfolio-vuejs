@@ -1,7 +1,7 @@
 <template>
-    <div class="m-16 bg-gray-200 rounded-lg">
-        <h2 class="text-4xl font-bold text-center pt-8">Contact Me</h2>
-        <div class="grid grid-cols-2 gap-8 items-center">
+    <div class="my-12 lg:m-16 bg-gray-200 rounded-lg">
+        <h2 class="text-2xl lg:text-4xl font-bold text-center pt-4 lg:pt-8">Contact Me</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <form ref="form" class="p-8" @submit.prevent="sending()">
                 <div class="my-4">
                     <label>Name</label>
@@ -27,8 +27,8 @@
             </form>
             <div>
                 <div>
-                    <div class="text-black p-2 rounded-md text-2xl text-center">Email: jhshakil11275@gmail.com</div>
-                    <div class="text-black p-2 rounded-md text-2xl text-center">Mobile: +8801851891846</div>
+                    <div class="p-1 lg:p-2 rounded-md text-lg lg:text-2xl text-center">Email: jhshakil11275@gmail.com</div>
+                    <div class="p-1 lg:p-2 rounded-md text-lg lg:text-2xl text-center">Mobile: +8801851891846</div>
                 </div>
             </div>
         </div>

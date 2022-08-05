@@ -1,8 +1,8 @@
 <template>
-    <div class="px-8 py-3 flex justify-between items-center">
-        <router-link to="/"><h2 class="text-3xl font-bold">jhshakil</h2></router-link>
+    <div class="px-8 py-3 flex justify-between items-center sticky top-0 bg-gray-100">
+        <router-link to="/"><h2 class="text-xl font-bold">jhshakil</h2></router-link>
         <div>
-            <ul class="flex gap-6 text-xl font-bold">
+            <ul class="flex gap-3 text-sm font-bold">
                 <li>
                 <router-link to="/">Home</router-link>
                 </li>
