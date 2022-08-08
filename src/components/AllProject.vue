@@ -52,6 +52,21 @@
                 </div>
             </div>
         </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mt-16 items-center">
+            <img src="../assets/project4/project4.jpg" class="rounded-lg order-1 lg:order-2" alt="Project 1">
+            <div class="order-2 lg:order-1">
+                <h3 class="text-xl lg:text-2xl font-bold text-centertext-2xl font-bold text-center my-4">Money Calculation Website</h3>
+                <p class="text-sm lg:text-lg">This is simple money calculation website. Here people can calculate their saving and they will be able to see their total balance and total expenses.</p>
+                <div class="flex justify-evenly items-center my-4">
+                    <div class="mt-4 lg:mt-12 text-sm lg:text-xl">
+                        <a target="_blank" class="bg-gray-300 p-2 lg:p-4 rounded-md" href="https://zealous-northcutt-3cb97f.netlify.app/">Live Site</a>
+                    </div>
+                    <div class="mt-4 lg:mt-12 text-sm lg:text-xl">
+                        <a target="_blank" class="bg-gray-300 p-2 lg:p-4 rounded-md" href="https://github.com/jhshakil/money-calculation">Client Site Code</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 

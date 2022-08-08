@@ -7,6 +7,7 @@
                 <div class="grid grid-cols-4 lg:grid-cols-3 gap-4 my-4 lg:my-8">
                 <div class="font-bold rounded-md text-sm lg:text-lg text-center">Javascript</div>
                 <div class="font-bold rounded-md text-sm lg:text-lg text-center">React</div>
+                <div class="font-bold rounded-md text-sm lg:text-lg text-center">Redux</div>
                 <div class="font-bold rounded-md text-sm lg:text-lg text-center">Vue</div>
                 <div class="font-bold rounded-md text-sm lg:text-lg text-center">Bootstrap</div>
                 <div class="font-bold rounded-md text-sm lg:text-lg text-center">Tailwind</div>
